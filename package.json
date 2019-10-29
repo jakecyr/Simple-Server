@@ -1,0 +1,19 @@
+{
+    "name": "@jakecyr/simple-server",
+    "version": "1.0.2",
+    "description": "Simple http server to test static files",
+    "main": "index.js",
+    "dependencies": {
+        "express": "^4.17.1",
+        "morgan": "^1.9.1"
+    },
+    "bin": {
+        "simple-server": "./index.js"
+    },
+    "devDependencies": {},
+    "scripts": {
+        "start": "node index.js"
+    },
+    "author": "Jake Cyr",
+    "license": "ISC"
+}
