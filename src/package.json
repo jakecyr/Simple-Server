@@ -10,7 +10,6 @@
     "bin": {
         "simple-server": "./index.js"
     },
-    "devDependencies": {},
     "scripts": {
         "start": "node index.js"
     },
